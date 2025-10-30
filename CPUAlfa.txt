@@ -1,0 +1,6 @@
+﻿processor   : 0
+vendor_id   : AuthenticAMD
+model name  : AMD Ryzen 7 5700                               
+cpu MHz     : 3701
+cpu cores   : 8
+siblings    : 16

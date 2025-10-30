@@ -1,0 +1,6 @@
+processor   : 0
+vendor_id   : GenuineIntel
+model name  : 13th Gen Intel(R) Core(TM) i5-1340P                              
+cpu MHz     : 1900
+cpu cores   : 12
+siblings    : 16
