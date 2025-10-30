@@ -14,3 +14,12 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git fetch origin
+git branch -r (para ver si esta creada la rama)
+git checkout Altube
+git pull origin Altube (traerme los cambios de la rama)
+.....
+git checkout Altube (cambio la rama en la que estoy parado)
+git add .
+git commit -m "comentario"
+git push origin Altube
