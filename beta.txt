@@ -1,0 +1,39 @@
+Renata Altube
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::89c6:4b56:7db0:b1ea%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Dirección IPv6 . . . . . . . . . . : 2800:2130:5040:f92::e4c3
+   Dirección IPv6 . . . . . . . . . . : 2800:2130:5040:f92:76df:e0d3:a258:5d63
+   Dirección IPv6 temporal. . . . . . : 2800:2130:5040:f92:f93c:cf7c:f93d:b14e
+   Vínculo: dirección IPv6 local. . . : fe80::e8cc:2ec0:c0b8:1baa%17
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.69
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::10:18ff:fe3b:dd1c%17
+                                       192.168.0.1
+
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
