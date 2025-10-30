@@ -80,3 +80,52 @@ Adaptador de LAN inalámbrica Wi-Fi:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::e6ab:89ff:feeb:4f58%12
                                        192.168.1.1
+
+Jonathan Pizarro, Hora: 17:36
+
+Ipconfig:
+
+Configuración IP de Windows
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : Home
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:d50c:3a00:e270:e8c4:247f:2e72
+   Dirección IPv6 temporal. . . . . . : 2802:8010:d50c:3a00:c801:9ecc:ba86:352a
+   Vínculo: dirección IPv6 local. . . : fe80::7072:eb74:e259:5fa6%5
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.79
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::463b:14ff:fe38:898%5
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::5618:3094:54ac:f4e9%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet VMware Network Adapter VMnet1:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::47a6:c8ed:5619:57ef%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.255.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet VMware Network Adapter VMnet8:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::85ee:769:c5eb:18df%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.81.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet vEthernet (WSL (Hyper-V firewall)):
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::b22d:4fc0:c08b:f702%38
+   Dirección IPv4. . . . . . . . . . . . . . : 172.26.16.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
