@@ -1,3 +1,4 @@
+
 Altube Renata
 
 Responde BETA:
@@ -15,10 +16,23 @@ git add datos.txt
 git commit
 git push
 
+
+Encina Garcia Dante
+
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No, las ramas creadas por BETA y por mí (GAMMA) no quedan con los datos actualizados automáticamente después del merge.
+Cuando BETA hizo el merge hacia la rama master, solo esa rama se actualizó con todos los cambios combinados.
+Mi rama siguió igual que antes del merge, a menos que yo hiciera un pull o un merge desde master para actualizarla.
+
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+  los problemas que tuvimos al hacer el merge al principio, fue de que yo (GAMMA) antes habia subido y borrado algo que no deberia haber estado en el main, luego haciendolo correctamente donde corresponde, el tema fue que para que pueda BETA hacer correctamente el marge tenia que borrar mi archivo (que habia corregido) debido a que se pisaba de alguna manera con el borrado que hice antes en el main, asi que me toco hacerlo de nuevo la copia local y subirlo.
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+--resolución manual de la consigna trayendo el repositorio de forma local.
+git checkout Altube (cambio la rama en la que estoy parado)
+git add .
+git commit -m "Subida ifconfig"
+git push origin Altube
 
 
 Responde ALFA:
